@@ -2,4 +2,4 @@
     Disallow:/Error.html
     Disallow:/favicon.ico
 
-    Sitemap:https://chenzhaoniubi.github.io
+    Sitemap:https://chenzhaoniubi.github.io/sitemap.xml
